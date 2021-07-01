@@ -5,6 +5,7 @@
 
 My name is Jason Kim, and I am aspiring to launch my career in Full Stack Development. I am due to receive my certificate from Georgia Institute of Technology's Coding Bootcamp in a few months!
 
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 <!--
 **eccentricality/eccentricality** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
