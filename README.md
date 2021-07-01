@@ -4,7 +4,7 @@
 
 ##👋How's it going?
 
-My name is Jason Kim, and I am aspiring to launch my career in Full Stack Development. I am due to receive my certificate from Georgia Institute of Technology's Coding Bootcamp in a few months!
+My name is Jason Kim; and I am aspiring to launch my career in Full Stack Development, due to receive my certificate from Georgia Institute of Technology's Coding Bootcamp in a few months!
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
