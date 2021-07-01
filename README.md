@@ -1,4 +1,4 @@
-[![Header]<p align="center">(https://i.ibb.co/L5p4G7j/profile-Banner.png "Header")</p>](https://jsonkimify.tech)
+[![Header](https://i.ibb.co/L5p4G7j/profile-Banner.png "Header")](https://jsonkimify.tech)
 
 
 <!--
