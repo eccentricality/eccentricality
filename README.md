@@ -1,6 +1,7 @@
 <p align="center">
   <a href="https://jsonkimify.tech"><img width="800" height="300" src="https://i.ibb.co/L5p4G7j/profile-Banner.png"></a>
 </p>
+
 ##👋How's it going?
 
 My name is Jason Kim, and I am aspiring to launch my career in Full Stack Development. I am due to receive my certificate from Georgia Institute of Technology's Coding Bootcamp in a few months!
