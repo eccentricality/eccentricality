@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1280" height="440" src="https://i.ibb.co/L5p4G7j/profile-Banner.png">
+  <img width="1100" height="400" src="https://i.ibb.co/L5p4G7j/profile-Banner.png">
 </p>
 
 <!-- [![Header](https://i.ibb.co/L5p4G7j/profile-Banner.png "Header")](https://jsonkimify.tech) -->
