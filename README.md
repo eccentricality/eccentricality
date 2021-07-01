@@ -1,4 +1,4 @@
-[![Header](src="./img/profileBanner.png")](https://jsonkimify.tech)
+[![Header](https://ibb.co/JQkXhJ6 "Header")](https://jsonkimify.tech)
 
 <!--
 **eccentricality/eccentricality** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
