@@ -1,4 +1,8 @@
-[![Header](https://i.ibb.co/L5p4G7j/profile-Banner.png "Header")](https://jsonkimify.tech)
+<p align="center">
+  <img width="460" height="300" src="https://i.ibb.co/L5p4G7j/profile-Banner.png">
+</p>
+
+<!-- [![Header](https://i.ibb.co/L5p4G7j/profile-Banner.png "Header")](https://jsonkimify.tech) -->
 
 
 <!--
