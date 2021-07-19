@@ -7,6 +7,7 @@
 My name is Jason Kim; and I am aspiring to launch my career in Full Stack Development, due to receive my certificate from Georgia Institute of Technology's Coding Bootcamp in a few months!
 
 Currently Experienced In:
+
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/-CSS3-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
