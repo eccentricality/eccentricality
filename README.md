@@ -4,7 +4,7 @@
 
 ##👋How's it going?
 
-My name is Jason Kim; and I am aspiring to launch my career in Full Stack Development, due to receive my certificate from Georgia Institute of Technology's Coding Bootcamp in October 2021!
+Hello, and welcome to my GitHub page! I'm a passionate developer who loves creating innovative and user-centric applications. Here, you'll find a collection of my projects, showcasing my skills in various technologies and programming languages. Feel free to explore my repositories, contribute to ongoing projects, or get in touch if you'd like to collaborate on something new. Happy coding!
 
 Currently Experienced In:
 
